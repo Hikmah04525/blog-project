@@ -1,3 +1,8 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+}
 .primary-link{
     background-color: aliceblue;
     padding: 16px 32px;
@@ -5,6 +10,7 @@
     border-radius: 4px;
     cursor: pointer;
 }
+
 
 nav a {
     margin-right: 16px;
@@ -25,4 +31,20 @@ td,
 th {
     border: 1px solid #ddd;
     padding: 8px;
+} 
+
+.navbar-container {
+    background-color: aliceblue; /* Keeps your background color */
+    padding: 8px 0;              /* Use less padding, or 0, for the container itself */
+    /* You might want a little padding to center the links vertically, e.g., 8px top/bottom */
 }
+
+/* --- Add this at the absolute top of your main.css file --- */
+* {
+    /* Use the universal selector to ensure no element retains default margin/padding */
+    box-sizing: border-box; /* Highly recommended for layout control */
+    margin: 0;
+    padding: 0;
+}
+
+/* Fallback for specificity, though the universal selector should cover it */

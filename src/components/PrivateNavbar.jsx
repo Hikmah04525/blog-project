@@ -2,7 +2,7 @@ import {NavLink} from "react-router-dom";
 
 const PrivateNavbar = () => {
     return (
-        <nav className="primary-link"> 
+        <nav className="navbar-container"> 
             <NavLink to="/">Home</NavLink>
             <NavLink to ="/categories">Categories</NavLink>
             <NavLink to ="/posts">Posts</NavLink>

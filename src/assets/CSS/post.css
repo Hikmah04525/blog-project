@@ -1,4 +1,4 @@
-flexbox-container {
+.flexbox-container {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -6,7 +6,7 @@ flexbox-container {
     height: 100vh;
 }
 
-flexbox-container.wrap{
+.flexbox-container.wrap{
     flex-wrap: wrap;
 }
 .post-card {
