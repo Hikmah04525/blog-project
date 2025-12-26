@@ -18,6 +18,6 @@ This project focuses on creating, displaying, and managing blog posts with a cle
 
 ## Getting Started
 1. Clone the repository  
-   ```bash
+   ```bash https://github.com/Hikmah04525/blog-project
    
 
