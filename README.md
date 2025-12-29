@@ -4,7 +4,8 @@ A simple blog web application built to practice full stack web development conce
 This project focuses on creating, displaying, and managing blog posts with a clean and responsive user interface.
 
 ## Features
-- Create and display blog posts  
+- Create and display blog posts
+- category posts
 - Category-based blog listing  
 - Responsive design for different screen sizes  
 - Clean and simple UI  
