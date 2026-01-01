@@ -1,7 +1,6 @@
 # Blog Project
 
-A simple blog web application built to practice full stack web development concepts.  
-This project focuses on creating, displaying, and managing blog posts with a clean and responsive user interface.
+A simple blog web application built as a hands-on project to practice full-stack web development concepts. The application allows users to create, view, and manage blog posts, with an emphasis on a clean, responsive, and well-structured user interface.
 
 ## Features
 - Create and display blog posts
